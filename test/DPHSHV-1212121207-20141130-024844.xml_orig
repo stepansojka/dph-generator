@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pisemnost nazevSW="EPO MF ČR" verzeSW="37.1.1">
+<DPHSHV verzePis="01.02">
+<VetaD poc_radku="1" k_uladis="DPH" ctvrt="4" pln_poc_celk="3" d_poddp="30.11.2014" suma_pln="999999" poc_stran="1" shvies_forma="R" rok="2014" dokument="SHV" />
+<VetaP prijmeni="Kůň" stat="ÁZERBÁJDŽÁN" c_orient="1" c_ufo="464" psc="98765" dic="1212121207" c_pracufo="3301" naz_obce="BAKU" c_pop="777777" ulice="Příšerného Úpění" typ_ds="F" jmeno="Žluťoučký" />
+<VetaR k_pln_eu="3" c_rad="1" pln_hodnota="999999" k_stat="IE" por_c_stran="1" pln_pocet="3" c_vat="6390343O" />
+</DPHSHV>
+<Kontrola><Uzivatel jmeno="null" prijmeni="null" /><Soubor Delka="527" KC="4cdbcdfcab4cb0ffcefe491ce0942346" Nazev="DPHSHV-1212121207-20141130-024844" c_ufo="464" /></Kontrola></Pisemnost>

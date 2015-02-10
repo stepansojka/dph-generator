@@ -1,0 +1,23 @@
+[taxpayer]
+
+name = Štěpán
+surname = Mažňák
+vat_no = 1234561234
+
+street = Ahepjukova
+street_no = 13
+street_no_long = 12345
+city = OSTRAVA-JIH
+zip_code = 70030
+country = ČESKÁ REPUBLIKA
+
+# magicke konstanty z webove aplikace
+# je treba je vykrast z nejakeho existujiciho xml priznani
+
+# nasledujici hodnoty jsou pro FU ostrava II
+ufo = 463
+pracufo = 3202
+
+# ekonomicka cinnost PROGRAMOVANI
+business = 620100
+

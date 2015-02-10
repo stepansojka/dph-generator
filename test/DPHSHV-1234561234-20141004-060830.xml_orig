@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pisemnost nazevSW="EPO MF ČR" verzeSW="37.1.1">
+<DPHSHV verzePis="01.02">
+<VetaD poc_radku="1" k_uladis="DPH" ctvrt="3" pln_poc_celk="3" d_poddp="04.10.2014" suma_pln="10" poc_stran="1" shvies_forma="R" rok="2014" dokument="SHV" />
+<VetaP prijmeni="Mažňák" stat="ČESKÁ REPUBLIKA" c_orient="13" c_ufo="463" psc="70030" dic="1234561234" c_pracufo="3202" naz_obce="OSTRAVA-JIH" c_pop="12345" ulice="Ahepjukova" typ_ds="F" jmeno="Štěpán" />
+<VetaR k_pln_eu="3" c_rad="1" pln_hodnota="10" k_stat="IE" por_c_stran="1" pln_pocet="3" c_vat="6390343O" />
+</DPHSHV>
+<Kontrola><Uzivatel jmeno="null" prijmeni="null" /><Soubor Delka="515" KC="4f66437c8233a03e54ce0608c15816d9" Nazev="DPHSHV-1234561234-20141004-060830" c_ufo="463" /></Kontrola></Pisemnost>

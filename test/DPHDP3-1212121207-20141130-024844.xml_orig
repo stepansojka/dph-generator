@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pisemnost nazevSW="EPO MF ČR" verzeSW="37.1.1">
+<DPHDP3 verzePis="01.02">
+<VetaD ctvrt="4" trans="A" c_okec="476000" dapdph_forma="B" dokument="DP3" typ_platce="P" k_uladis="DPH" d_poddp="30.11.2014" rok="2014" />
+<VetaP c_pop="777777" stat="ÁZERBÁJDŽÁN" jmeno="Žluťoučký" c_pracufo="3301" dic="1212121207" ulice="Příšerného Úpění" psc="98765" typ_ds="F" c_orient="1" prijmeni="Kůň" naz_obce="BAKU" c_ufo="464" />
+<Veta2 pln_sluzby="999999" />
+<Veta4 odp_sum_kr="0" odp_sum_nar="0" />
+<Veta5 odp_uprav_kf="0" />
+<Veta6 dano_da="0" odp_zocelk="0" dano="0" dano_no="0" />
+</DPHDP3>
+<Kontrola><Uzivatel jmeno="null" prijmeni="null" /><Soubor Delka="548" KC="eb7b5086e3de9c0836eb9e5142a7871f" Nazev="DPHDP3-1212121207-20141130-024844" c_ufo="464" /></Kontrola></Pisemnost>

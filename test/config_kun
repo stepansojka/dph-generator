@@ -1,0 +1,19 @@
+[taxpayer]
+
+name = Žluťoučký
+surname = Kůň
+vat_no = 1212121207
+
+street = Příšerného Úpění
+street_no = 1
+street_no_long = 777777
+city = BAKU
+zip_code = 98765
+country = ÁZERBÁJDŽÁN
+
+# FU ZLIN
+ufo = 464
+pracufo = 3301
+
+# MALOOBCHOD S VÝROBKY PRO KULTURNÍ ROZHLED A REKREACI VE SPECIALIZOVANÝCH PRODEJNÁCH
+business = 476000
