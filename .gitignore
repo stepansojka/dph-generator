@@ -1,3 +1,6 @@
+# Xml files genereted by tests
+test/DPH*.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
